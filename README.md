@@ -6,10 +6,9 @@ WebWings Browser Responsive Web Design
 
 ## Screenshots
 
-![App Screenshot](https://github-production-user-asset-6210df.s3.amazonaws.com/73791490/270478951-d0740295-c4de-47a4-82f2-5937e91c540c.jpg)
+![App Screenshot](https://github-production-user-asset-6210df.s3.amazonaws.com/73791490/270479454-ae4b8213-266b-4537-ab00-ceea31b18c38.jpg)
 
 
 ## Demo
 
 Online Demo
-
